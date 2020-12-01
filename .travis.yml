@@ -1,0 +1,4 @@
+stages:
+  - get config
+  - validation
+  
